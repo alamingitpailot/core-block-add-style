@@ -1,0 +1,13 @@
+{
+  "name": "wordpress-core-paragraph-extension",
+  "version": "1.0.0",
+  "description": "Adds custom text shadow settings to core paragraph block.",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^30.15.0"
+  }
+}

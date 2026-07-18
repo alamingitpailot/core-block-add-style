@@ -1,0 +1,28 @@
+/* Custom Popover styling for BPL Shadow Control */
+.bpl-shadow-popover-content {
+    background: #ffffff;
+    border-radius: 4px;
+
+    label {
+        font-size: 13px !important;
+        color: #1e1e1e !important;
+        font-weight: 500 !important;
+    }
+
+    .components-panel__row {
+        margin-bottom: 12px !important;
+        align-items: center !important;
+    }
+
+    .components-base-control__label {
+        margin-bottom: 4px !important;
+    }
+
+    .itemAction button {
+        font-weight: 500;
+    }
+
+    .components-circular-option-picker {
+        justify-content: flex-start !important;
+    }
+}
